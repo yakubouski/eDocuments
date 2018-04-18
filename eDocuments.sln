@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "eDocuments", "..\..\..\..\..\..\..\..\Users\Asus\Desktop\Workspace\Projects\Web\PHP\eDocuments\PHPWebProject1\eDocuments.phpproj", "{D16FC993-B6B0-4E5C-898C-9FC4FE739D33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16FC993-B6B0-4E5C-898C-9FC4FE739D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16FC993-B6B0-4E5C-898C-9FC4FE739D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C01D12-7F58-47A8-BF86-0E2D97C4981A}
+	EndGlobalSection
+EndGlobal
